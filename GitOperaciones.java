@@ -4,9 +4,9 @@ public class GitOperaciones {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int numero1,numero2,opcion;
-        System.out.print("Introduïu el primer número: ");
+        System.out.print("Introduïu el primer número:");
         numero1=entrada.nextInt();
-        System.out.print("Introduce el segundo numero: ");
+        System.out.print("Introduce el segundo numero:");
         numero2 = entrada.nextInt();
         System.out.println("1:Suma");
         System.out.println("2:resta");
